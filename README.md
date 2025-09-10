@@ -25,15 +25,7 @@ The project is structured with **OOP principles** and includes a **GUI interface
 ---
 
 ## 🖼️ Screenshot (Example GUI)
-+----------------------------------+
-|   Trivia Quiz Game               |
-|----------------------------------|
-|  Q: What is the capital of France? |
-|                                  |
-|   [True]       [False]           |
-|                                  |
-|  Score: 1/5                      |
-+----------------------------------+
+![Quiz App Screenshot](quizzler.png)
 
 ---
 
